@@ -118,6 +118,11 @@ img {
 	margin: 0 auto;
 	padding: 100px 0;
 }
+#services .section-title{
+font-size:4rem;
+	font-weight:300;
+	
+} 
 /* End Services Section */
 
 /*keyframe*/
